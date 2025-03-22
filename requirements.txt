@@ -1,0 +1,13 @@
+faiss-cpu 
+langchain 
+openai 
+tiktoken 
+chromadb 
+sentence-transformers
+langchain-community
+pymupdf
+pandas
+numpy
+openai
+python-dotenv
+ctransformers
